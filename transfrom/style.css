@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div-box{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    /* transition-duration: 3s ;
+    transition-timing-function: ease-in-out; */
+    /* transition: all 1s ease-in-out ; */
+}
+.div-box:hover{
+    /* width: 500px; */
+    /* transform: skew(-40deg); */
+   
+
+    /* transform: scale(2); */
+    transform: translateY(123px);
+
+
+
+}

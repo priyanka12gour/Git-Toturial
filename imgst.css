@@ -5,7 +5,6 @@
     padding: 0px;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
-
 }
 .flex{
     display: flex;
@@ -149,7 +148,7 @@ body{
     color: black;
 }
 .social-media a:hover{
-    transform: translatey(-17%);
+    transform: translateY(17%);
     background-color: red;
     transition: 0.3s;
 }
